@@ -1,0 +1,9 @@
+import KotahiBlockDropDownToolGroupService from './KotahiBlockDropDownToolGroupService/KotahiBlockDropDownToolGroupService'
+import JatsSideMenuToolGroupService from './JatsSideMenuToolGroupService/JatsSideMenuToolGroupService'
+import JatsAnnotationListTooolGroupService from './JatsSideMenuToolGroupService/JatsAnnotationListToolGroupService'
+
+export {
+  KotahiBlockDropDownToolGroupService,
+  JatsSideMenuToolGroupService,
+  JatsAnnotationListTooolGroupService,
+}

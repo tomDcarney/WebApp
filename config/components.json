@@ -1,0 +1,18 @@
+[
+  "./server/model-team/src",
+  "./server/model-user/src",
+  "./server/model-article-import-sources/src/",
+  "./server/model-article-import-history/src/",
+  "./server/model-manuscript/src/",
+  "./server/model-file/src/",
+  "./server/component-xpub-review-backend/src/",
+  "./server/model-review/src/",
+  "./server/model-form/src/",
+  "@pubsweet/job-xsweet",
+  "./server/model-channel/src",
+  "./server/model-message/src",
+  "./server/reports/src",
+  "./server/profile-upload",
+  "./server/auth-orcid",
+	"./server/pdfexport"
+]

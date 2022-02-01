@@ -1,0 +1,17 @@
+{
+  "elife": {
+    "primaryColor": "rgb(10, 157, 217)",
+    "logoPath": "/public/logo-elife.svg",
+    "brandName": "eLife"
+  },
+  "ncrc": {
+    "primaryColor": "rgb(10, 157, 217)",
+    "logoPath": "/public/logo-ncrc.jpg",
+    "brandName": "Novel Coronavirus Research Compendium"
+  },
+  "colab": {
+    "primaryColor": "rgb(188, 35, 37)",
+    "logoPath": "/public/biophysics-colab.png",
+    "brandName": "Colab"
+  }
+}
